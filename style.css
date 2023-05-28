@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.parallax{
+    background: url(1658520485_2-kartinkin-net-p-itachi-art-s-lunoi-oboi-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    text-align: center;
+    font-size: 50px;
+    padding: 15vh ;
+    
+}
+
+.parallax img {
+    pointer-events: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.parallax2{
+    background: url(1658520485_2-kartinkin-net-p-itachi-art-s-lunoi-oboi-22.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    text-align: center;
+    font-size: 50px;
+    padding: 20vh ;
+}
